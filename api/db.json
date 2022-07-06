@@ -1,0 +1,85 @@
+{
+  "orders": [
+    {
+      "typePresta": "formation",
+      "designation": "lead tech",
+      "nbDays": "5",
+      "unitPrice": "400",
+      "state": "OPTION",
+      "id": 1
+    },
+    {
+      "typePresta": "formation",
+      "designation": "product owner",
+      "nbDays": "10",
+      "unitPrice": "500",
+      "state": "CONFIRMED",
+      "id": 2
+    },
+    {
+      "typePresta": "coaching",
+      "designation": "angular project",
+      "nbDays": "50",
+      "unitPrice": "600",
+      "state": "CANCELED",
+      "id": 3
+    },
+    {
+      "typePresta": "coaching",
+      "designation": "java dev team",
+      "nbDays": "90",
+      "unitPrice": "700",
+      "state": "OPTION",
+      "id": 4
+    },
+    {
+      "typePresta": "formation",
+      "designation": "google expert",
+      "nbDays": "8",
+      "unitPrice": "500",
+      "state": "CONFIRMED",
+      "id": 5
+    }
+  ],
+  "clients": [
+    {
+      "companyName": "atos",
+      "firstName": "Jean",
+      "lastName": "Toto",
+      "email": "jeantoto@atos.com",
+      "phone": "0601020304",
+      "adress": "5 rue de jean",
+      "zipCode": "45780",
+      "city": "jeanville",
+      "country": "France",
+      "state": "ACTIVE",
+      "id": 1
+    },
+    {
+      "companyName": "capgemini",
+      "firstName": "Luiss",
+      "lastName": "Ferreira",
+      "email": "luissferr@capgm.com",
+      "phone": "0601020305",
+      "adress": "5 rue ferreira",
+      "zipCode": "75016",
+      "city": "paris",
+      "country": "France",
+      "state": "ACTIVE",
+      "id": 2
+    },
+    {
+      "companyName": "soprasteria",
+      "firstName": "Amine",
+      "lastName": "tutsi",
+      "email": "tutsiamine@sopra.com",
+      "phone": "0601020306",
+      "adress": "5 rue de la voie lactée",
+      "zipCode": "48856",
+      "city": "paradisecity",
+      "country": "France",
+      "state": "INACTIVE",
+      "id": 3
+    }
+  ]
+}
