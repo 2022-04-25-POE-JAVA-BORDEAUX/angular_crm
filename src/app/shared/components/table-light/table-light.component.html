@@ -1,0 +1,17 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th *ngFor="let header of headers">{{ header }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of collection">
+      <td>{{ item.typePresta }}</td>
+      <td>{{ item.designation }}</td>
+      <td>{{ item.nbDays }}</td>
+      <td>{{ item.unitPrice }}</td>
+      <td>TOTAL</td>
+      <td>{{ item.state }}</td>
+    </tr>
+  </tbody>
+</table>
