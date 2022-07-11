@@ -1,27 +1,27 @@
 {
   "orders": [
     {
-      "typePresta": "formation",
-      "designation": "lead tech",
       "nbDays": "5",
       "unitPrice": "400",
-      "state": "OPTION",
+      "state": "CONFIRMED",
+      "typePresta": "formation",
+      "designation": "lead tech",
       "id": 1
     },
     {
-      "typePresta": "formation",
-      "designation": "product owner",
       "nbDays": "10",
       "unitPrice": "500",
-      "state": "CONFIRMED",
+      "state": "OPTION",
+      "typePresta": "formation",
+      "designation": "product owner",
       "id": 2
     },
     {
-      "typePresta": "coaching",
-      "designation": "angular project",
       "nbDays": "50",
       "unitPrice": "600",
-      "state": "CANCELED",
+      "state": "OPTION",
+      "typePresta": "coaching",
+      "designation": "angular project",
       "id": 3
     },
     {
