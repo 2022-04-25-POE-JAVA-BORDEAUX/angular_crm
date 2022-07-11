@@ -19,25 +19,25 @@
     {
       "nbDays": "50",
       "unitPrice": "600",
-      "state": "OPTION",
+      "state": "CANCELED",
       "typePresta": "coaching",
       "designation": "angular project",
       "id": 3
     },
     {
-      "typePresta": "coaching",
-      "designation": "java dev team",
       "nbDays": "90",
       "unitPrice": "700",
-      "state": "OPTION",
+      "state": "CONFIRMED",
+      "typePresta": "coaching",
+      "designation": "java dev team",
       "id": 4
     },
     {
-      "typePresta": "formation",
-      "designation": "google expert",
       "nbDays": "8",
       "unitPrice": "500",
-      "state": "CONFIRMED",
+      "state": "OPTION",
+      "typePresta": "formation",
+      "designation": "google expert",
       "id": 5
     }
   ],
