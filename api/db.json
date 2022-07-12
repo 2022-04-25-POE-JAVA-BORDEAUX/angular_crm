@@ -55,6 +55,14 @@
       "unitPrice": 500,
       "state": "OPTION",
       "id": 7
+    },
+    {
+      "typePresta": "",
+      "designation": null,
+      "nbDays": 5,
+      "unitPrice": 500,
+      "state": "OPTION",
+      "id": 8
     }
   ],
   "clients": [
