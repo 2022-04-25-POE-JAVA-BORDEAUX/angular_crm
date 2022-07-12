@@ -39,6 +39,22 @@
       "typePresta": "formation",
       "designation": "google expert",
       "id": 5
+    },
+    {
+      "nbDays": 10,
+      "unitPrice": 600,
+      "state": "CONFIRMED",
+      "typePresta": "toto",
+      "designation": "tutu",
+      "id": 6
+    },
+    {
+      "typePresta": "ddd",
+      "designation": "ddd",
+      "nbDays": 5,
+      "unitPrice": 500,
+      "state": "OPTION",
+      "id": 7
     }
   ],
   "clients": [
