@@ -3,6 +3,10 @@
   <!-- <pre>{{ collection | json }}</pre> -->
   <app-table-light [headers]="headers">
     <tr *ngFor="let item of collection">
+      <td>
+        <app-icon-edit (click)="goToEdit(item.id)"></app-icon-edit>
+        <app-icon-delete></app-icon-delete>
+      </td>
       <td>{{ item.typePresta }}</td>
       <td>{{ item.designation }}</td>
       <td>{{ item.nbDays }}</td>

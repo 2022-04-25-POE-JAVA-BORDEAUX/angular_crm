@@ -9,11 +9,11 @@
       "id": 1
     },
     {
+      "typePresta": "formation",
+      "designation": "toto",
       "nbDays": "10",
       "unitPrice": "500",
       "state": "OPTION",
-      "typePresta": "formation",
-      "designation": "product owner",
       "id": 2
     },
     {
